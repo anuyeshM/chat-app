@@ -49,6 +49,7 @@ Start the Client
   cd frontend
   npm start
 ```
+![project 2](https://github.com/anuyeshM/chat-app/assets/95938949/134bf34a-6f0f-4e93-ab73-a77025543c8a)
 
 
   
